@@ -4,4 +4,6 @@ right. When it hits the right end, it restarts from the left and continues the s
 You can use a timer to control animation. Redraw the car with a new base coordinates (x, y). 
 Also let the user pause/resume the animation with a button pre![image](https://user-images.githubusercontent.com/82240434/152705452-68501a4d-847d-42bf-b010-982bb8e0a561.png)ss/release and 
 increase/decrease the car speed by pressing the UP and DOWN arrow keys
+![image](https://user-images.githubusercontent.com/82240434/154337684-25d9b1d2-b9f5-4f8f-8999-2ff43ab9e29d.png)
+
 ![Uploading image.png…]()
